@@ -1,0 +1,21 @@
+2024-11-22 05:19:30.772 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-11-22 05:19:30.791 PROFILE executeGetTokenSignalingState(): [Get token call] Time taken: 0 ms
+2024-11-22 05:19:30.791 PROFILE createSignalingClientSync(): [Create signaling client] Time taken: 0 ms
+2024-11-22 05:19:30.791 PROFILE executeDescribeSignalingState(): [Describe signaling call] Time taken: 0 ms
+2024-11-22 05:19:30.791 PROFILE executeGetEndpointSignalingState(): [Get endpoint signaling call] Time taken: 0 ms
+2024-11-22 05:19:31.030 PROFILE executeGetIceConfigSignalingState(): [Get ICE config signaling call] Time taken: 239 ms
+2024-11-22 05:19:31.030 PROFILE signalingClientFetchSync(): [Fetch signaling client] Time taken: 239 ms
+2024-11-22 05:19:31.270 PROFILE executeConnectSignalingState(): [Connect signaling call] Time taken: 240 ms
+2024-11-22 05:19:31.270 PROFILE signalingClientConnectSync(): [Connect signaling client] Time taken: 239 ms
+2024-11-22 05:19:31.270 PROFILE initSignaling(): [Signaling Get token] 0 ms
+2024-11-22 05:19:31.270 PROFILE initSignaling(): [Signaling Describe] 0 ms
+2024-11-22 05:19:31.270 PROFILE initSignaling(): [Signaling Describe Media] 0 ms
+2024-11-22 05:19:31.270 PROFILE initSignaling(): [Signaling Create Channel] 0 ms
+2024-11-22 05:19:31.270 PROFILE initSignaling(): [Signaling Get endpoint] 0 ms
+2024-11-22 05:19:31.270 PROFILE initSignaling(): [Signaling Get ICE config] 239 ms
+2024-11-22 05:19:31.270 PROFILE initSignaling(): [Signaling Connect] 240 ms
+2024-11-22 05:19:31.270 PROFILE initSignaling(): [Signaling create client] 0 ms
+2024-11-22 05:19:31.270 PROFILE initSignaling(): [Signaling fetch client] 239 ms
+2024-11-22 05:19:31.270 PROFILE initSignaling(): [Signaling connect client] 239 ms
+2024-11-22 05:19:31.772 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-11-22 05:19:32.772 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms

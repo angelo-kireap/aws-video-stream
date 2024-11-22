@@ -1,0 +1,23 @@
+2024-11-22 05:19:15.235 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-11-22 05:19:15.414 PROFILE executeGetTokenSignalingState(): [Get token call] Time taken: 0 ms
+2024-11-22 05:19:15.414 PROFILE createSignalingClientSync(): [Create signaling client] Time taken: 0 ms
+2024-11-22 05:19:15.561 PROFILE executeDescribeSignalingState(): [Describe signaling call] Time taken: 147 ms
+2024-11-22 05:19:15.921 PROFILE executeCreateSignalingState(): [Create signaling call] Time taken: 360 ms
+2024-11-22 05:19:16.101 PROFILE executeDescribeSignalingState(): [Describe signaling call] Time taken: 180 ms
+2024-11-22 05:19:16.235 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-11-22 05:19:16.251 PROFILE executeGetEndpointSignalingState(): [Get endpoint signaling call] Time taken: 150 ms
+2024-11-22 05:19:16.521 PROFILE executeGetIceConfigSignalingState(): [Get ICE config signaling call] Time taken: 270 ms
+2024-11-22 05:19:16.521 PROFILE signalingClientFetchSync(): [Fetch signaling client] Time taken: 1107 ms
+2024-11-22 05:19:16.801 PROFILE executeConnectSignalingState(): [Connect signaling call] Time taken: 280 ms
+2024-11-22 05:19:16.801 PROFILE signalingClientConnectSync(): [Connect signaling client] Time taken: 280 ms
+2024-11-22 05:19:16.801 PROFILE initSignaling(): [Signaling Get token] 0 ms
+2024-11-22 05:19:16.801 PROFILE initSignaling(): [Signaling Describe] 180 ms
+2024-11-22 05:19:16.801 PROFILE initSignaling(): [Signaling Describe Media] 0 ms
+2024-11-22 05:19:16.801 PROFILE initSignaling(): [Signaling Create Channel] 360 ms
+2024-11-22 05:19:16.801 PROFILE initSignaling(): [Signaling Get endpoint] 150 ms
+2024-11-22 05:19:16.801 PROFILE initSignaling(): [Signaling Get ICE config] 270 ms
+2024-11-22 05:19:16.801 PROFILE initSignaling(): [Signaling Connect] 280 ms
+2024-11-22 05:19:16.801 PROFILE initSignaling(): [Signaling create client] 0 ms
+2024-11-22 05:19:16.801 PROFILE initSignaling(): [Signaling fetch client] 1107 ms
+2024-11-22 05:19:16.801 PROFILE initSignaling(): [Signaling connect client] 280 ms
+2024-11-22 05:19:17.235 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms

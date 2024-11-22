@@ -1,0 +1,10 @@
+/usr/local/lib/libkvsWebrtcClient.so
+/usr/local/lib/libkvsWebrtcSignalingClient.so
+/usr/local/include/com/amazonaws/kinesis/video/webrtcclient/Include.h
+/usr/local/include/com/amazonaws/kinesis/video/webrtcclient/NullableDefs.h
+/usr/local/include/com/amazonaws/kinesis/video/webrtcclient/Stats.h
+/usr/local/bin/kvsWebrtcClientMasterGstSample
+/usr/local/bin/kvsWebrtcClientViewerGstSample
+/usr/local/bin/kvsWebrtcClientMaster
+/usr/local/bin/kvsWebrtcClientViewer
+/usr/local/bin/discoverNatBehavior
